@@ -1,0 +1,10 @@
+debu ;
+declaration ;
+variable a : entier ;
+variable b : reel ;
+ a := 4 * 5 ;
+si ( a > 5 ) alors b := 5  sinon  z := 5 finsi ;  
+ecrire ( a ) ;
+fin ;
+
+

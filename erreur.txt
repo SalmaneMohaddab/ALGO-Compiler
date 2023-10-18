@@ -1,0 +1,8 @@
+##erreur de type 1 dans le mot 'debu' ligne 1##
+##erreur de type 1 dans le mot 'debu' ligne 1##
+##erreur de type 1 dans le mot 'debu' ligne 1####erreur de type 1 dans le mot 'debu' ligne 1####erreur de type 3 ligne 1 le programme doit commencer par 'debut'##
+erreur de type 3 variable 'z' nest pas declarer
+##erreur de type 1 dans le mot 'debu' ligne 1####erreur de type 3 ligne 1 le programme doit commencer par 'debut'##
+erreur de type 3 variable 'z' nest pas declarer
+##erreur de type 1 dans le mot 'debu' ligne 1####erreur de type 3 ligne 1 le programme doit commencer par 'debut'##
+erreur de type 3 variable 'z' nest pas declarer
